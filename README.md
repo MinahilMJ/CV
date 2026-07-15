@@ -51,8 +51,8 @@ I am an MS Cyber Security student at FAST-NUCES with a background in Data Scienc
 
 ## Experience
 
-- **AI Engineering Intern** — Abacus
-- **MIS Intern** — Shaukat Khanum Memorial Cancer Hospital
+- AI Engineering Intern - Abacus
+- MIS Intern - Shaukat Khanum Memorial Cancer Hospital
 
 ## Featured Projects
 
